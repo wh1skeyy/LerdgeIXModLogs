@@ -1,8 +1,8 @@
 # LerdgeIX Modification Logs
 ## A repository that tracks mods added to a original LerdgeIX cantilevered 3D printer.
 
-![Left View](/workspaces/LerdgeIXModLogs/LeftView.jpg)
-![Right View](/workspaces/LerdgeIXModLogs/RightView.jpg)
+![Left View](LerdgeIXModLogs/LeftView.jpg)
+![Right View](LerdgeIXModLogs/RightView.jpg)
 
 ## Lerdge IX specifications:
 
